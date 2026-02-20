@@ -2,6 +2,7 @@ name: "Whiteout Survival Discord Bot"
 description: "Whiteout Survival Discord Bot that supports alliance management, event reminders and attendance tracking, gift code redemption, minister appointment planning and more. This bot is free, open source and self-hosted."
 version: "1.4.1"
 init: false
+url: https://github.com/combro2k/homeassistant-addons/tree/main/wosbot
 arch:
   - amd64
   - i386
