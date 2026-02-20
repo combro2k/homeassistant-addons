@@ -1,0 +1,5 @@
+{
+  "build_from": {
+    "amd64": "ghcr.io/whiteout-project/bot:latest"
+  }
+}
